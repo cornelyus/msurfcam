@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mSurfCam</string>
+    <string name="exitapp">Exit!</string>
+    <string name="gohome">Cams</string>
+    <string name="donate">Pay my Donuts (DONATE)</string>
+    <string name="videonoite">VideoNoite</string>
+    <string name="videoindisponivel">VideoIndisponivel</string>
+    <string name="errovideonoite">Vídeo em directo apenas das 6 ás 22!</string>
+    <string name="errovideoindisponivel">Vídeo Indisponível!</string>
+    <string name="alerta_3gactivo">Streaming do video afecta plano de dados. Ligar na mesma?</string>
+    <string name="alertatitulo_3gactivo">Ligação de dados activa!</string>
+    <string name="alertatitulo_semligacao">Sem ligação internet!</string>
+    <string name="alerta_semligacao">Verifica os settings. mSurfCam precisa de uma ligação á internet!</string>
+    
+    
+    
+<string name="cam_aveiro">Aveiro</string>
+<string name="cam_praialuz">Praia da Luz</string>
+<string name="cam_lecapalmeira">Leça</string>
+<string name="cam_sines">Sines</string>
+<string name="cam_espinho">Espinho</string>
+<string name="cam_carcavelos">Carcavelos</string>
+<string name="cam_guincho">Guincho</string>
+<string name="cam_costa">Costa da Caparica</string>
+<string name="cam_ericeira">Ericeira</string>
+<string name="cam_praiagrande">Praia Grande</string>
+<string name="cam_estoril">S. Pedro Estoril</string>
+<string name="cam_peniche">Peniche</string>
+
+
+<string name="urlAveiro">http://praias.sapo.pt/praias/norte/ilhavo/barra-de-aveiro/camera/</string>
+<string name="urlPraiaLuz">http://praias.sapo.pt/praias/algarve/lagos/luz/camera/</string>
+<string name="urlLecaPalmeira">http://praias.sapo.pt/praias/norte/matosinhos/leca-da-palmeira/camera/</string>
+<string name="urlSines">http://praias.sapo.pt/praias/alentejo/sines/sao-torpes/camera/</string>
+<string name="urlEspinho">http://praias.sapo.pt/praias/norte/espinho/espinho/camera/</string>
+<string name="urlCosta">http://praias.sapo.pt/praias/lisboa/almada/nova-praia/camera/</string>
+<string name="urlCarcavelos">http://praias.sapo.pt/praias/lisboa/cascais/carcavelos/camera/</string>
+<string name="urlEriceira">http://praias.sapo.pt/praias/lisboa/mafra/ribeira-de-ilhas/camera/</string>
+<string name="urlGuincho">http://praias.sapo.pt/praias/lisboa/cascais/guincho/camera/</string>
+<string name="urlEstoril">http://praias.sapo.pt/praias/lisboa/cascais/sao-pedro-do-estoril/camera/</string>
+<string name="urlPraiaGrande">http://praias.sapo.pt/praias/lisboa/sintra/grande/camera/</string>
+<string name="urlPeniche">http://praias.sapo.pt/praias/lisboa/peniche/baleal/camera/</string>
+<string name="donateUrl">http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=37PQF33KXT4AY&amp;lc=US&amp;item_name=Pedro%20Mateus&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</string>
+<string name="homeUrl">http://sites.google.com/site/pedromateusandroiddev/</string>
+<string name="homeString">About(site)</string>
+
+
+
+</resources>

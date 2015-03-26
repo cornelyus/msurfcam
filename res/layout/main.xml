@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+>
+
+<Button
+	android:id="@+id/btn_costa"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_costa">
+</Button>
+
+<Button
+	android:id="@+id/btn_ericeira"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_ericeira">
+</Button>
+
+<Button
+	android:id="@+id/btn_carcavelos"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_carcavelos">
+</Button>
+
+<Button
+	android:id="@+id/btn_guincho"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_guincho">
+</Button>
+
+<Button
+	android:id="@+id/btn_praiagrande"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_praiagrande">
+</Button>
+
+<Button
+	android:id="@+id/btn_estoril"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_estoril">
+</Button>
+
+<Button
+	android:id="@+id/btn_peniche"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_peniche">
+</Button>
+<Button
+	android:id="@+id/btn_aveiro"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_aveiro">
+</Button>
+<Button
+	android:id="@+id/btn_praialuz"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_praialuz">
+</Button>
+<Button
+	android:id="@+id/btn_sines"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_sines">
+</Button>
+<Button
+	android:id="@+id/btn_lecapalmeira"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_lecapalmeira">
+</Button>
+<Button
+	android:id="@+id/btn_espinho"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/cam_espinho">
+</Button>
+
+</LinearLayout>

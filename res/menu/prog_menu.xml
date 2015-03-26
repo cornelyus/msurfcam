@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/exitapp"
+          android:title="@string/exitapp" />
+    <item android:id="@+id/donate"
+          android:title="@string/donate" />
+    <item android:id="@+id/home"
+          android:title="@string/homeString" />
+           
+    <item android:id="@+id/carcavelos"
+          android:title="@string/cam_carcavelos" />
+    <item android:id="@+id/guincho"
+          android:title="@string/cam_guincho" />  
+    <item android:id="@+id/costa"
+          android:title="@string/cam_costa" />
+    <item android:id="@+id/ericeira"
+          android:title="@string/cam_ericeira" />
+    <item android:id="@+id/praiagrande"
+          android:title="@string/cam_praiagrande" />
+    <item android:id="@+id/estoril"
+          android:title="@string/cam_estoril" />    
+    <item android:id="@+id/peniche"
+          android:title="@string/cam_peniche" /> 
+    <item android:id="@+id/aveiro"
+          android:title="@string/cam_aveiro" />     
+    <item android:id="@+id/praialuz"
+    android:title="@string/cam_praialuz" /> 
+    <item android:id="@+id/sines"
+    android:title="@string/cam_sines" /> 
+    <item android:id="@+id/lecapalmeira"
+    android:title="@string/cam_lecapalmeira" /> 
+    <item android:id="@+id/espinho"
+    android:title="@string/cam_espinho" />        
+                                                   
+</menu>
